@@ -1,0 +1,393 @@
+﻿"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Hotels; gasten, overnachtingen, woonland, regio ";"Hotels; gasten, regio";"82061NED";"Gasten en overnachtingen in hotels, motels, pensions, jeugdaccommodaties
+en b&b naar woonland (herkomst) gast per regio";"2020-07-24T02:00:00";"Actualisering";"";"nl";"CBS";"Permaand";"januari 2012 - mei 2020";"
+Deze tabel bevat cijfers over het aantal gasten en hun overnachtingen in Nederland in alle hotels, motels, pensions, appartementen met hoteldienstverlening, jeugdaccommodaties en bed&breakfasts met ten minste 5 slaapplaatsen.
+De gegevens zijn beschikbaar naar land van herkomst van de gasten (woonland), per landsdeel, provincie, toeristisch landsdeel en vijf grote gemeenten.
+
+Gegevens beschikbaar vanaf: 2012
+
+Status van de cijfers:
+De cijfers over 2020 zijn voorlopig, de overige jaren zijn definitief.
+
+Wijzigingen per 24 juli 2020:
+De cijfers over mei 2020 zijn toegevoegd.
+
+Wanneer komen er nieuwe cijfers?
+De cijfers over een nieuwe verslagmaand zijn beschikbaar binnen 3 maanden na het verstrijken van die maand en krijgen de status 'voorlopig'. 
+De cijfers over het hele jaar worden 1 maand na het verschijnen van de maand december herzien en krijgen dan de status 'nader voorlopig'. 
+Nog 2 maanden later krijgen de cijfers de status 'definitief'.
+
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie
+
+
+1. TOELICHTING
+
+Deze tabel bevat cijfers over het aantal gasten en hun overnachtingen in Nederland in alle hotels, motels, pensions, appartementen met hoteldienstverlening, jeugdaccommodaties en bed&breakfasts met ten minste 5 slaapplaatsen.
+De gegevens zijn beschikbaar naar land van herkomst van de gasten (woonland), per landsdeel, provincie, toeristisch landsdeel en vijf grote gemeenten.
+
+Gegevens beschikbaar vanaf: 2012
+
+Status van de cijfers:
+De cijfers over 2020 zijn voorlopig, de overige jaren zijn definitief.
+
+Wijzigingen per 24 juli 2020:
+De cijfers over mei 2020 zijn toegevoegd.
+
+Wanneer komen er nieuwe cijfers?
+De cijfers over een nieuwe verslagmaand zijn beschikbaar binnen 3 maanden na het verstrijken van die maand en krijgen de status 'voorlopig'. 
+De cijfers over het hele jaar worden 1 maand na het verschijnen van de maand december herzien en krijgen dan de status 'nader voorlopig'. 
+Nog 2 maanden later krijgen de cijfers de status 'definitief'.
+
+
+2. DEFINITIES EN VERKLARINGEN VAN SYMBOLEN
+
+Definities:
+
+Gasten 
+Bezoekers die één of meer nachten achtereen verblijven in een logiesaccommodatie. 
+Een gast die meer dan twee maanden aaneengesloten verblijft in een logiesaccommodatie, wordt als vaste gast aangemerkt en telt niet mee voor de statistiek.
+Asielzoekers en seizoenarbeiders worden niet als gast meegeteld, ook niet als ze korter dan twee maanden aaneengesloten verblijven in een logiesaccommodatie.
+Per maand worden de in die maand vertrokken gasten waargenomen, ongeacht in welke maand de gast aangekomen is. Het is mogelijk dat een persoon twee of meerdere malen in een maand in dezelfde accommodatie of in verschillende accommodaties als gast wordt geteld.
+
+Hotel
+Een accommodatie met slaapplaatsen voor logiesverstrekking in overwegend een- en tweepersoonskamers tegen boeking per nacht, waar afzonderlijke maaltijden, kleine etenswaren en dranken kunnen worden verstrekt aan gasten en aan passanten. Hierbij is een gast een persoon die overnacht in de desbetreffende accommodatie en een passant iemand die niet blijft overnachten. Verder kunnen nog andere diensten ter beschikking worden gesteld zoals receptie, room- en telefoonservice.
+
+Motel
+Een locatie langs de snelweg met aan elkaar geschakelde kamers met de deuren aan een parkeerplaats of gemeenschappelijke ruimte voor logiesverstrekking tegen boeking per nacht.
+
+Pension
+Een accommodatie met slaapplaatsen voor logiesverstrekking in overwegend een- en tweepersoonskamers, waar afzonderlijke maaltijden, kleine etenswaren en dranken kunnen worden verstrekt aan gasten maar niet aan passanten.
+
+Appartement met hoteldienstverlening
+Appartement waarbij gedurende het verblijf het appartement schoon wordt gehouden en de bedden opgemaakt.
+
+Jeugdaccommodatie
+Jeugdhotel en jeugdherberg.
+Een jeugdhotel is een hotel voor overwegend jeugdige gasten met slaapgelegenheid die men niet met 'vreemden' hoeft te delen.
+Een jeugdherberg is een accommodatie voor overwegend jeugdige gasten met slaapgelegenheid in kamers en/of zalen die men mogelijk met 'vreemden' moet delen. 
+
+Bed&breakfast
+Particuliere woning waar men kan overnachten en ontbijten.
+
+Verklaring van symbolen:
+
+niets (blanco)	: het cijfer kan op logische gronden niet voorkomen
+. 		: het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+*		: voorlopige cijfers
+**		: nader voorlopige cijfers  
+
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+Relevante tabellen: 
+Meer tabellen over de logiesaccommodaties in Nederland vindt u in het thema <a href='https://opendata.cbs.nl/statline/#/CBS/nl/navigatieScherm/thema?themaNr=50440'>Logiesaccommodaties</a> en in het <a href='https://opendata.cbs.nl/statline/#/CBS/nl/navigatieScherm/thema?themaNr=82167'>archief</a>.
+
+Relevante artikelen:
+Meer informatie is te vinden op de themapagina: <a href=/""/https://www.cbs.nl/nl-NL/maatschappij/vrije-tijd-en-cultuur/""/>Vrije tijd en cultuur</a>.
+
+
+4. BRONNEN EN METHODEN
+
+De onderzoeksmethode van deze tabel is te vinden in de onderzoeksbeschrijving: <a 
+href=/""/https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/logiesaccommodaties/""/>Korte onderzoeksbeschrijving logiesaccommodaties</a>.
+
+
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag/Heerlen 
+Verveelvoudiging is toegestaan, mits CBS als bron wordt vermeld.
+";"ts=1595318453581&graphtype=Table&r=Perioden,WoonlandVanGasten&k=RegioS&t=Topics&_gu=NL";"$filter=((Perioden eq '2020MM05')) and ((RegioS eq 'NL01  ') or (RegioS eq 'PV20  ') or (RegioS eq 'PV21  ') or (RegioS eq 'PV22  ') or (RegioS eq 'PV23  ') or (RegioS eq 'PV24  ') or (RegioS eq 'PV25  ') or (RegioS eq 'PV26  ') or (RegioS eq 'PV27  ') or (RegioS eq 'PV28  ') or (RegioS eq 'PV29  ') or (RegioS eq 'PV30  ') or (RegioS eq 'PV31  '))&$select=WoonlandVanGasten, Perioden, RegioS, Gasten_1";"Table,Bar,Line,Map";"Regulier";"CBS.";"2020-07-24T02:00:00";"3"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"WoonlandVanGasten";"Woonland van gasten";"";;;;;
+"1";"1";;"GeoDimension";"RegioS";"Regio's";"";;;;;
+"2";"2";;"TimeDimension";"Perioden";"Perioden";"";"true";;;;
+"3";"3";;"Topic";"Gasten_1";"Gasten";;;"Long";"x 1 000";"0";"Missing"
+"4";"4";;"Topic";"Overnachtingen_2";"Overnachtingen";;;"Long";"x 1 000";"0";"Missing"
+"WoonlandVanGasten"
+Key;Title;Description
+"T001047";"Totaal landen";""
+"L008691";"Nederland";""
+"B000069";"Totaal buitenland";
+"L008525";"Europa exclusief Nederland";""
+"L008592";"Duitsland";"Bondsrepubliek Duitsland, Duitse Democratische Republiek, Duitsland (oud), Saarland."
+"L008552";"België";""
+"L008663";"Luxemburg";""
+"L008776";"Verenigd Koninkrijk";""
+"L008629";"Ierland";""
+"L008605";"Frankrijk";""
+"L008791";"Zwitserland";""
+"L008661";"Liechtenstein";""
+"L008636";"Italië";""
+"L008671";"Malta";
+"L008749";"Spanje";"Spanje, Canarische eilanden, Spaans Noordafrika."
+"L008719";"Portugal";"Portugal, Azoren, Madeira-eilanden."
+"L008709";"Oostenrijk";"Oostenrijk, Oostenrijk-Hongarije."
+"L008588";"Denemarken";""
+"L008790";"Zweden";""
+"L008704";"Noorwegen";"Noorwegen, Spitsbergen, de Svalbardeilanden."
+"L008604";"Finland";""
+"L008630";"IJsland";""
+"L008615";"Griekenland";""
+"L008587";"Cyprus";"."
+"L008766";"Turkije";
+"L008718";"Polen";"Polen en Dantzig"
+"L008764";"Tsjechië";"Nieuw land ontstaan uit de opsplitsing van Tsjecho-Slowakije in 1993."
+"L008745";"Slowakije";"Nieuw land ontstaan uit de opsplitsing van Tsjecho-Slowakije in 1993."
+"L008744";"Slovenië";"Nieuw land ontstaan uit de opsplitsing van Joegoslavië in 1991."
+"L008627";"Hongarije";""
+"L008567";"Bulgarije";""
+"L008723";"Roemenië";""
+"L008654";"Kroatië";"Nieuw land ontstaan uit de opsplitsing van Joegoslavië in 1991/'92."
+"L008724";"Rusland";"Nieuw land ontstaan uit de opsplitsing van de Sovjet-Unie in 1991. Niet te verwarren met het oude Rusland dat een ander grondgebied bestrijkt."
+"L008598";"Estland";"Onafhankelijk land van 1918-1940, viel na de Tweede Wereldoorlog tot 1991 onder de Sovjet-Unie en werd in 1991, na de opsplitsing van de Sovjet-Unie, opnieuw onafhankelijk."
+"L008657";"Letland";"Onafhankelijk land van 1918-1940, viel na de Tweede Wereldoorlog tot 1991 onder de Sovjet-Unie en werd in 1991, na de opsplitsing van de Sovjet-Unie, opnieuw onafhankelijk."
+"L008662";"Litouwen";"Onafhankelijk land van 1918-1940, viel na de Tweede Wereldoorlog tot 1991 onder de Sovjet-Unie en werd in 1991, na de opsplitsing van de Sovjet-Unie, opnieuw onafhankelijk."
+"L008706";"Oekraïne";"Nieuw land ontstaan uit de opsplitsing van de Sovjet-Unie in 1991."
+"B000070";"Overig Europa";
+"L008520";"Totaal Amerika";"Noord-, Midden- en Zuid Amerika."
+"L008571";"Canada";"Canada, Newfoundland."
+"L008778";"Verenigde Staten van Amerika";"Verenigde Staten van Amerika, Hawaii-eilanden."
+"L008562";"Brazilië";""
+"B000071";"Overig Amerika";"Overig Midden- en Zuid Amerika."
+"L008524";"Totaal Azië";""
+"L008639";"Japan";"Japan, Ryukyueilanden."
+"L008632";"Indonesië";"Tot en met 20 mei 2002: Indonesië, Nederlands Indië, Nederlands Nieuwguinea en Portugees Timor.
+
+Vanaf 20 mei 2002: Indonesië, Nederlands Indië, Nederlands Nieuwguinea.
+
+Portugees Timor bestaat per 20 mei 2002 als zelfstandig land onder de naam Timor Leste."
+"L008628";"HongKong";""
+"L008635";"Israël";"Israël, Palestina."
+"L008755";"Taiwan";""
+"L008575";"China";"Exclusief Hong Kong en Taiwan."
+"L008789";"Zuid-Korea";"Zuid-Korea, Korea."
+"L008631";"India";"India, Brits Indië, Frans Indië, Goa, Kashmir, Portugees Indië, Sikkim."
+"B000072";"Overig Azië ";
+"L008531";"Totaal Oceanië";""
+"L008545";"Australië";"Australië, Christmaseiland, Cocoseilanden, Tasmanië."
+"L008697";"Nieuw-Zeeland";""
+"B000073";"Overig Oceanië";
+"L008519";"Totaal Afrika";""
+"L008787";"Zuid-Afrika";""
+"B000074";"Overig Afrika";
+"RegioS"
+Key;Title;Description
+"NL01  ";"Nederland";
+"LD01  ";"Noord-Nederland (LD)";"Noord-Nederland: Groningen, Friesland, Drenthe
+LD = Landsdeel
+Regionale groepering van provincies. Nederland telt 4 landsdelen."
+"LD02  ";"Oost-Nederland (LD)";"Oost-Nederland: Overijssel, Flevoland en Gelderland
+LD = Landsdeel
+Regionale groepering van provincies. Nederland telt 4 landsdelen"
+"LD03  ";"West-Nederland (LD)";"West-Nederland: Utrecht, Noord-Holland, Zuid-Holland en Zeeland
+LD = Landsdeel
+Regionale groepering van provincies. Nederland telt 4 landsdelen."
+"LD04  ";"Zuid-Nederland (LD)";"Zuid-Nederland: Noord-Brabant en Limburg
+LD = Landsdeel
+Regionale groepering van provincies. Nederland telt 4 landsdelen."
+"PV20  ";"Groningen (PV)";"PV = Provincie
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV21  ";"Friesland (PV)";"PV = Provincie
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV22  ";"Drenthe (PV)";"PV = Provincie
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV23  ";"Overijssel (PV)";"PV = Provincie
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV24  ";"Flevoland (PV)";"PV = Provincie
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV25  ";"Gelderland (PV)";"PV = Provincie
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV26  ";"Utrecht (PV)";"PV = Provincie
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+"
+"PV27  ";"Noord-Holland (PV)";"PV = Provincie
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+"
+"PV28  ";"Zuid-Holland (PV)";"PV = Provincie
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies.
+"
+"PV29  ";"Zeeland (PV)";"PV = Provincie
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV30  ";"Noord-Brabant (PV)";"PV = Provincie
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"PV31  ";"Limburg (PV)";"PV = Provincie
+Bestuurlijke onderverdeling van het Nederlands grondgebied. Sinds het instellen van de provincie Flevoland per 1 januari 1986 telt Nederland 12 provincies."
+"TG01  ";"Kust (TG)";"Kust: Waddeneilanden en Noordzeebadplaatsen
+TG = Toeristisch landsdeel
+De 17 toeristische gebieden zijn samengevoegd in 6 toeristische landsdelen."
+"TG02  ";"Watersportgebieden (TG)";"Watersportgebieden: IJsselmeerkust, Deltagebied, Meren in Groningen, Friesland en Noordwest-Overijssel en Hollands-Utrechtse meren
+TG = Toeristisch landsdeel
+De 17 toeristische gebieden zijn samengevoegd in 6 toeristische landsdelen."
+"TG03  ";"Bos en Heide Midden-Nederland (TG)";"Bos en Heide Midden-Nederland: Utrechtse Heuvelrug en 't Gooi, Veluwe en Veluwerand, Gelders rivierengebied en Achterhoek
+TG = Toeristisch landsdeel
+De 17 toeristische gebieden zijn samengevoegd in 6 toeristische landsdelen."
+"TG04  ";"Bos en Heide Noordoost-Nederland (TG)";"Bos en Heide Noordoost-Nederland: Twente, Salland en Vechtstreek en Groningse, Friese en Drentse Zandgronden
+TG = Toeristisch landsdeel
+De 17 toeristische gebieden zijn samengevoegd in 6 toeristische landsdelen."
+"TG05  ";"Bos en Heide Zuid-Nederland (TG)";"Bos en Heide Zuid-Nederland: West- en Midden-Brabant, Oost-Brabant, Noord- en Midden-Limburg en Rijk van Nijmegen en Zuid-Limburg
+TG = Toeristisch landsdeel
+De 17 toeristische gebieden zijn samengevoegd in 6 toeristische landsdelen."
+"TG06  ";"Overig Nederland (TG)";"Overig Nederland: 4 grote steden excl. Noordzeebadplaatsen en Overig Nederland (TR17)
+TG = Toeristisch landsdeel
+De 17 toeristische gebieden zijn samengevoegd in 6 toeristische landsdelen."
+"GM0363";"Amsterdam (GM)";
+"GM0599";"Rotterdam (GM)";"Rotterdam inclusief de badplaats Hoek van Holland.
+"
+"GM0518";"'s-Gravenhage (GM)";"Den Haag inclusief de badplaatsen Scheveningen en Kijkduin.
+"
+"GM0344";"Utrecht (GM)";""
+"GM0935";"Maastricht (GM)";
+"GM0394";"Haarlemmermeer (GM)";"Begindatum 16-11-1855"
+"Perioden"
+Key;Title;Description;Status
+"2012MM01";"2012 januari";"";"Definitief"
+"2012MM02";"2012 februari";"";"Definitief"
+"2012MM03";"2012 maart";"";"Definitief"
+"2012KW01";"2012 1e kwartaal";"";"Definitief"
+"2012MM04";"2012 april";"";"Definitief"
+"2012MM05";"2012 mei";"";"Definitief"
+"2012MM06";"2012 juni";"";"Definitief"
+"2012KW02";"2012 2e kwartaal";"";"Definitief"
+"2012MM07";"2012 juli";"";"Definitief"
+"2012MM08";"2012 augustus";"";"Definitief"
+"2012MM09";"2012 september";"";"Definitief"
+"2012KW03";"2012 3e kwartaal";"";"Definitief"
+"2012MM10";"2012 oktober";"";"Definitief"
+"2012MM11";"2012 november";"";"Definitief"
+"2012MM12";"2012 december";"";"Definitief"
+"2012KW04";"2012 4e kwartaal";"";"Definitief"
+"2012JJ00";"2012";"";"Definitief"
+"2013MM01";"2013 januari";"";"Definitief"
+"2013MM02";"2013 februari";"";"Definitief"
+"2013MM03";"2013 maart";"";"Definitief"
+"2013KW01";"2013 1e kwartaal";"";"Definitief"
+"2013MM04";"2013 april";"";"Definitief"
+"2013MM05";"2013 mei";"";"Definitief"
+"2013MM06";"2013 juni";"";"Definitief"
+"2013KW02";"2013 2e kwartaal";"";"Definitief"
+"2013MM07";"2013 juli";"";"Definitief"
+"2013MM08";"2013 augustus";"";"Definitief"
+"2013MM09";"2013 september";"";"Definitief"
+"2013KW03";"2013 3e kwartaal";"";"Definitief"
+"2013MM10";"2013 oktober";"";"Definitief"
+"2013MM11";"2013 november";"";"Definitief"
+"2013MM12";"2013 december";"";"Definitief"
+"2013KW04";"2013 4e kwartaal";"";"Definitief"
+"2013JJ00";"2013";"";"Definitief"
+"2014MM01";"2014 januari";"";"Definitief"
+"2014MM02";"2014 februari";"";"Definitief"
+"2014MM03";"2014 maart";"";"Definitief"
+"2014KW01";"2014 1e kwartaal";"";"Definitief"
+"2014MM04";"2014 april";"";"Definitief"
+"2014MM05";"2014 mei";"";"Definitief"
+"2014MM06";"2014 juni";"";"Definitief"
+"2014KW02";"2014 2e kwartaal";"";"Definitief"
+"2014MM07";"2014 juli";"";"Definitief"
+"2014MM08";"2014 augustus";"";"Definitief"
+"2014MM09";"2014 september";"";"Definitief"
+"2014KW03";"2014 3e kwartaal";"";"Definitief"
+"2014MM10";"2014 oktober";"";"Definitief"
+"2014MM11";"2014 november";"";"Definitief"
+"2014MM12";"2014 december";"";"Definitief"
+"2014KW04";"2014 4e kwartaal";"";"Definitief"
+"2014JJ00";"2014";"";"Definitief"
+"2015MM01";"2015 januari";"";"Definitief"
+"2015MM02";"2015 februari";"";"Definitief"
+"2015MM03";"2015 maart";"";"Definitief"
+"2015KW01";"2015 1e kwartaal";"";"Definitief"
+"2015MM04";"2015 april";"";"Definitief"
+"2015MM05";"2015 mei";"";"Definitief"
+"2015MM06";"2015 juni";"";"Definitief"
+"2015KW02";"2015 2e kwartaal";"";"Definitief"
+"2015MM07";"2015 juli";"";"Definitief"
+"2015MM08";"2015 augustus";"";"Definitief"
+"2015MM09";"2015 september";"";"Definitief"
+"2015KW03";"2015 3e kwartaal";"";"Definitief"
+"2015MM10";"2015 oktober";"";"Definitief"
+"2015MM11";"2015 november";"";"Definitief"
+"2015MM12";"2015 december";"";"Definitief"
+"2015KW04";"2015 4e kwartaal";"";"Definitief"
+"2015JJ00";"2015";"";"Definitief"
+"2016MM01";"2016 januari";"";"Definitief"
+"2016MM02";"2016 februari";"";"Definitief"
+"2016MM03";"2016 maart";"";"Definitief"
+"2016KW01";"2016 1e kwartaal";"";"Definitief"
+"2016MM04";"2016 april";"";"Definitief"
+"2016MM05";"2016 mei";"";"Definitief"
+"2016MM06";"2016 juni";"";"Definitief"
+"2016KW02";"2016 2e kwartaal";"";"Definitief"
+"2016MM07";"2016 juli";"";"Definitief"
+"2016MM08";"2016 augustus";"";"Definitief"
+"2016MM09";"2016 september";"";"Definitief"
+"2016KW03";"2016 3e kwartaal";"";"Definitief"
+"2016MM10";"2016 oktober";"";"Definitief"
+"2016MM11";"2016 november";"";"Definitief"
+"2016MM12";"2016 december";"";"Definitief"
+"2016KW04";"2016 4e kwartaal";"";"Definitief"
+"2016JJ00";"2016";"";"Definitief"
+"2017MM01";"2017 januari";"";"Definitief"
+"2017MM02";"2017 februari";"";"Definitief"
+"2017MM03";"2017 maart";"";"Definitief"
+"2017KW01";"2017 1e kwartaal";"";"Definitief"
+"2017MM04";"2017 april";"";"Definitief"
+"2017MM05";"2017 mei";"";"Definitief"
+"2017MM06";"2017 juni";"";"Definitief"
+"2017KW02";"2017 2e kwartaal";"";"Definitief"
+"2017MM07";"2017 juli";"";"Definitief"
+"2017MM08";"2017 augustus";"";"Definitief"
+"2017MM09";"2017 september";"";"Definitief"
+"2017KW03";"2017 3e kwartaal";"";"Definitief"
+"2017MM10";"2017 oktober";"";"Definitief"
+"2017MM11";"2017 november";"";"Definitief"
+"2017MM12";"2017 december";"";"Definitief"
+"2017KW04";"2017 4e kwartaal";"";"Definitief"
+"2017JJ00";"2017";"";"Definitief"
+"2018MM01";"2018 januari";"Nader voorlopige cijfers";"Definitief"
+"2018MM02";"2018 februari";"Nader voorlopige cijfers";"Definitief"
+"2018MM03";"2018 maart";"Nader voorlopige cijfers";"Definitief"
+"2018KW01";"2018 1e kwartaal";"Nader voorlopige cijfers";"Definitief"
+"2018MM04";"2018 april";"Nader voorlopige cijfers";"Definitief"
+"2018MM05";"2018 mei";"Nader voorlopige cijfers";"Definitief"
+"2018MM06";"2018 juni";"Nader voorlopige cijfers";"Definitief"
+"2018KW02";"2018 2e kwartaal";"Nader voorlopige cijfers";"Definitief"
+"2018MM07";"2018 juli";"Nader voorlopige cijfers";"Definitief"
+"2018MM08";"2018 augustus";"Nader voorlopige cijfers";"Definitief"
+"2018MM09";"2018 september";"Nader voorlopige cijfers";"Definitief"
+"2018KW03";"2018 3e kwartaal";"Nader voorlopige cijfers";"Definitief"
+"2018MM10";"2018 oktober";"Nader voorlopige cijfers";"Definitief"
+"2018MM11";"2018 november";"Nader voorlopige cijfers";"Definitief"
+"2018MM12";"2018 december";"Nader voorlopige cijfers";"Definitief"
+"2018KW04";"2018 4e kwartaal";"Nader voorlopige cijfers";"Definitief"
+"2018JJ00";"2018";"Nader voorlopige cijfers";"Definitief"
+"2019MM01";"2019 januari";"";"Definitief"
+"2019MM02";"2019 februari";"";"Definitief"
+"2019MM03";"2019 maart";"";"Definitief"
+"2019KW01";"2019 1e kwartaal";"";"Definitief"
+"2019MM04";"2019 april";"";"Definitief"
+"2019MM05";"2019 mei";"";"Definitief"
+"2019MM06";"2019 juni";"";"Definitief"
+"2019KW02";"2019 2e kwartaal";"";"Definitief"
+"2019MM07";"2019 juli";"";"Definitief"
+"2019MM08";"2019 augustus";"";"Definitief"
+"2019MM09";"2019 september";"";"Definitief"
+"2019KW03";"2019 3e kwartaal";"";"Definitief"
+"2019MM10";"2019 oktober";"";"Definitief"
+"2019MM11";"2019 november";"";"Definitief"
+"2019MM12";"2019 december";"";"Definitief"
+"2019KW04";"2019 4e kwartaal";"";"Definitief"
+"2019JJ00";"2019";"";"Definitief"
+"2020MM01";"2020 januari";"Voorlopige cijfers";"Voorlopig"
+"2020MM02";"2020 februari";"Voorlopige cijfers";"Voorlopig"
+"2020MM03";"2020 maart";"Voorlopige cijfers";"Voorlopig"
+"2020KW01";"2020 1e kwartaal";"Voorlopige cijfers";"Voorlopig"
+"2020MM04";"2020 april";"Voorlopige cijfers";"Voorlopig"
+"2020MM05";"2020 mei";"Voorlopige cijfers";"Voorlopig"
